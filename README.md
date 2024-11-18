@@ -1,10 +1,10 @@
-# Android Project 6 - *BitFit 2*
+# Android Project 6 - *BitFit Part 2*
 
-Submitted by: **Melissa Perez**
+Submitted by: **Shengfu Deng**
 
-**BitFit 2** is a health metrics app that allows users to track sleep.
+**BitFit Part 2** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **15** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -21,29 +21,28 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Change date EditText to DatePicker for better entry
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
-
-
 Here's a walkthrough of implemented user stories:
 
-<img src='bitfitpart2_REDO.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+![BitFit2](https://github.com/user-attachments/assets/223cce0b-80f5-4270-9696-24fda7ea0f6f)
 
-GIF created with LICEcap
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-- Using the MPAndroidChart library
-- Creating notifications
-- Getting UI to work with new Fragment
-
 ## License
 
-    Copyright [2023] [Melissa Perez]
+    Copyright [2024] [Shengfu Deng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
